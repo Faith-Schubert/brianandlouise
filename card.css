@@ -1,1 +1,9 @@
-css
+/*<header>
+  <img src="img/parents.jpg">
+
+  <h1>Heading 1</h1>
+</header>*/
+header{
+  background-color:#308446;
+  padding: 40px
+}
